@@ -74,20 +74,21 @@ h4{
 }
 
 .div2{
+	display: inline-block;
 	margin-top: 30px;
 	margin-bottom: 65px;
 }
 .first{
+	display: inline-block;
 	font-family: 'Roboto-Regular';
 	background-color: #F2F2F2;
-    display: inline-block;
     width: 570px;
 	margin: auto 28px auto 98px;  
 }
 .second{
+	display: inline-block;
 	font-family: 'Roboto-Regular';
 	background-color: #F2F2F2;
-    display: inline-block;
     width: 570px;
 }
 .title{
