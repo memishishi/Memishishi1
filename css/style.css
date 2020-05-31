@@ -81,8 +81,14 @@ h4{
 	font-family: 'Roboto-Regular';
 	background-color: #F2F2F2;
     display: inline-block;
-    width: 470px;
+    width: 570px;
 	margin: auto 28px auto 98px;  
+}
+.second{
+	font-family: 'Roboto-Regular';
+	background-color: #F2F2F2;
+    display: inline-block;
+    width: 570px;
 }
 .title{
 	font-family: 'Roboto-Regular';
@@ -92,7 +98,7 @@ h4{
 	margin-left: 25px;
 }
 .img{
-	width: 75px;
+	width: 102px;
 	height: 120px;
 	display: inline-block;
 	padding: 10px 50px 25px 35px;
@@ -100,7 +106,7 @@ h4{
 .paragraph{
 	font-family: 'Roboto-Regular';
 	display: inline-block;
-	width: 300px;
+	width: 355px;
 	font-size: 20px;
 	vertical-align: top;
 	margin-top: 20px;
@@ -110,7 +116,7 @@ h4{
 }
 #fb{
 	margin-right:30px;
-	margin-left: 30px;
+	margin-left: 98px;
 }
 #Line{
 	margin-right: 30px;
@@ -148,7 +154,7 @@ h3{
 .div3-p{
 	font-size: 16px;
 	font-family: "BPG Ingiri Arial", sans-serif;
-	font-size: 16px;
+	color: #000000;
 	margin-left: 35px;
 	margin-top: 20px;
 	width: 930px;
@@ -195,4 +201,7 @@ h3{
 }
 span{
 	color: #999999;
+}
+#fb2{
+	margin-left: 45px;
 }
