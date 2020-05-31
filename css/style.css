@@ -88,7 +88,6 @@ h4{
 	font-family: 'Roboto-Regular';
 	background-color: #F2F2F2;
     display: inline-block;
-    margin-left: 25px;
     width: 570px;
 }
 .title{
@@ -205,4 +204,5 @@ span{
 }
 #fb2{
 	margin-left: 45px;
+	margin-right: 30px;
 }
